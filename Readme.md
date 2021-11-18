@@ -6,7 +6,7 @@
 
  ## Reference:
 
-* [Fake news detection: A Data Mining perspective](https://arxiv.org/pdf/1708.01967.pdf)
+  * [Fake news detection: A Data Mining perspective](https://arxiv.org/pdf/1708.01967.pdf)
   * [Fake News Identification - Stanford CS229](http://cs229.stanford.edu/proj2017/final-reports/5244348.pdf)
-  * [B.S. Detector](https://github.com/bs-detector/bs-detector)
+  * [B.S. Detector](https://github.com/selfagency/bs-detector)
   * [Used Datasets from Kaggle](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)
